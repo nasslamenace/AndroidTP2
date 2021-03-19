@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlickrApp</string>
+    <string name="gi">Get an image</string>
+    <string name="list">Go to list</string>
+    <string name="text">Initial</string>
+    <string name="img">Image</string>
+</resources>
